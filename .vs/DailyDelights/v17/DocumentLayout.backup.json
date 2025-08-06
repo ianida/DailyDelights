@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\6th\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82381D5F-8ED9-4541-B6E5-C55F39ADB9CF}|DailyDelights\\DailyDelights.csproj|d:\\6th\\dailydelights\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{82381D5F-8ED9-4541-B6E5-C55F39ADB9CF}|DailyDelights\\DailyDelights.csproj|solutionrelative:dailydelights\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{82381D5F-8ED9-4541-B6E5-C55F39ADB9CF}|DailyDelights\\DailyDelights.csproj|d:\\6th\\dailydelights\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82381D5F-8ED9-4541-B6E5-C55F39ADB9CF}|DailyDelights\\DailyDelights.csproj|solutionrelative:dailydelights\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\6th\\DailyDelights\\.gitignore",
-              "RelativeDocumentMoniker": "DailyDelights\\.gitignore",
-              "ToolTip": "D:\\6th\\DailyDelights\\.gitignore",
-              "RelativeToolTip": "DailyDelights\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-06T07:22:21.94Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\6th\\DailyDelights\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DailyDelights\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\6th\\DailyDelights\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DailyDelights\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T08:54:08.301Z",
               "EditorCaption": ""
             }
           ]

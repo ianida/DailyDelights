@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\6th\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{82381D5F-8ED9-4541-B6E5-C55F39ADB9CF}|DailyDelights\\DailyDelights.csproj|d:\\6th\\dailydelights\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{82381D5F-8ED9-4541-B6E5-C55F39ADB9CF}|DailyDelights\\DailyDelights.csproj|solutionrelative:dailydelights\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\6th\\DailyDelights\\.gitignore",
-              "RelativeDocumentMoniker": "DailyDelights\\.gitignore",
-              "ToolTip": "D:\\6th\\DailyDelights\\.gitignore",
-              "RelativeToolTip": "DailyDelights\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-06T07:22:21.94Z",
-              "EditorCaption": ""
             }
           ]
         }
